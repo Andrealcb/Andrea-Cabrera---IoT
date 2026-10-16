@@ -1,7 +1,7 @@
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f7f7;
+      background-color: #dce7ee;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -13,7 +13,7 @@
       width: 1200px;
       height: 600px;
       display: flex;
-      background-color: #fef9f9;
+      background-color: #ecf1f5;
       position: relative;
       overflow: hidden;
       border-radius: 20px;
