@@ -273,7 +273,18 @@ h2 {
             height: auto;
             opacity: 0.5; 
             z-index: 999; 
+        }    
+        
+  .icono4 {
+            position: fixed;
+            top: 40px;
+            left: 10px;
+            width: 60px; 
+            height: auto;
+            opacity: 0.5; 
+            z-index: 999; 
         }      
+
 
   .decoracion {
     z-index: 0; 
